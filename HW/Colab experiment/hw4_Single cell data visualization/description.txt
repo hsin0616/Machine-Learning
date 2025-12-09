@@ -1,0 +1,2 @@
+In this assignment, I worked with a single-cell sequencing expression matrix and completed a standard analysis pipeline: normalized by total counts, applied a log transformation to obtain logCPM, and then implemented PCA to reduce the data to two principal components for visualization. Using the PCA output, I applied K-Means clustering across different cluster sizes (k = 2–10) and evaluated clustering quality with the silhouette score.
+The notebook concluded with a clear summary of methods and findings based on the dimensionality reduction and clustering results. 

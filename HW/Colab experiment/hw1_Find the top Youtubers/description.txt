@@ -1,0 +1,2 @@
+In this assignment, I worked with a YouTuber dataset and defined suitable X (features) and Y (target) variables, then applied one-hot encoding to convert categorical fields (e.g., category and abbreviation) into numerical representations.
+I evaluated the model using 5-fold cross-validation, completing the training and prediction workflow for each fold. Finally, I implemented and compared Linear Regression and Ridge Regression with scikit-learn, and summarized the methodology, results (e.g., correlation and RMSE), and key takeaways in the notebook.

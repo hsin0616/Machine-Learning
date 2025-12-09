@@ -1,0 +1,3 @@
+In this assignment, I applied a convolutional neural network (CNN) to the MNIST handwritten digit dataset using PyTorch, following a complete deep learning workflow: data preprocessing, building/loading a dataset with DataLoader, defining the model structure, and implementing training and testing procedures.
+A key part of the task is to implement the Net2 architecture step-by-step and to read, understand, and annotate the training/testing code with clear descriptions or comments.
+The notebook documents my implementation choices, learning process, and results. 

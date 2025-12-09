@@ -1,0 +1,3 @@
+In this assignment, I used the Breast Cancer Wisconsin dataset to perform binary classification (benign vs. malignant) and built three baseline models: Logistic Regression, SVM, and Decision Tree.
+The workflow emphasized proper methodology, including feature scaling with StandardScaler (for Logistic Regression and SVM), GridSearchCV for hyperparameter tuning, and evaluation using classification error rate.
+I reported the mean and standard deviation of error rates across 5 folds, then summarized the methodology, results, and key conclusions in the notebook. 

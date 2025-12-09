@@ -1,0 +1,7 @@
+It is focusing on building intuition and implementation skills for modern sequence models. The work is divided into three parts:
+- Self-Attention
+- Multihead Self-Attention
+- a full Transformer
+I completed computing queries/keys/values, implementing softmax, calculating self-attention outputs (both step-by-step and in matrix form), and extending the implementation to multihead attention.
+In the Transformer section, I worked with the Wikitext-2 dataset, implemented positional encoding, read and explained the provided model/training pipeline, and used the trained model to generate new text by predicting next-token probabilities, applying temperature scaling, sampling tokens, and progressively producing a sequence (like text solitaire).
+The notebook concluded with a methodology description and discussion of results. 

@@ -1,0 +1,4 @@
+In this assignment, I worked with the MNIST dataset (28×28 grayscale digits) and built an encoder–decoder network to learn compact representations and reconstruct input images.
+A key requirement is designing the encoder with at least three hidden layers(e.g., 128 → 64 → 2) so the latent space is 2D for visualization, and implementing a decoder with a mirrored structure.
+I also completed the full training loop (e.g., using MSE loss and an optimizer such as Adam), then visualized and analyzed how different digit classes distribute in the 2D latent space.
+The notebook includes my methodology description, results, and conclusions/discussion. 
